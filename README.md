@@ -1,5 +1,5 @@
 # Quantium_Virtual_Internship
-#### My submission for quantium virtual internship (on insidesherpa) on data analytics 
+#### My submission for quantium virtual internship on data analytics 
 
 - This program consists of 3 tasks.
 - All files are my personal submission for this program. Not Quantium's model work files.
